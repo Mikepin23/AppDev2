@@ -1,0 +1,11 @@
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\bin\Debug\AppDev2Exercise2.exe.config
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\bin\Debug\AppDev2Exercise2.exe
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\bin\Debug\AppDev2Exercise2.pdb
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\obj\Debug\AppDev2Exercise2.csproj.AssemblyReference.cache
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\obj\Debug\AppDev2Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\obj\Debug\AppDev2Exercise2.exe
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\obj\Debug\AppDev2Exercise2.pdb
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\bin\Debug\log4net.dll
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\bin\Debug\log4net.xml
+C:\Users\mpins\.NET-Desktop\AppDev2Exercise2\obj\Debug\AppDev2Exercise2.csproj.CopyComplete
